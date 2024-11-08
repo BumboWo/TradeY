@@ -1,0 +1,103 @@
+2024-11-08 19:24:32,737 - TradingSystem - INFO - Logger initialized
+2024-11-08 19:24:32,741 - TradingSystem - INFO - Starting market training with 100 tickers
+2024-11-08 19:24:52,366 - TradingSystem - WARNING - Insufficient data for GOOGL
+2024-11-08 19:24:52,368 - TradingSystem - ERROR - Error downloading data for MSFT: No objects to concatenate
+2024-11-08 19:24:52,372 - TradingSystem - ERROR - Error downloading data for AAPL: No objects to concatenate
+2024-11-08 19:24:52,437 - TradingSystem - ERROR - Error downloading data for AMZN: No objects to concatenate
+2024-11-08 19:24:55,551 - TradingSystem - WARNING - Insufficient data for NVDA
+2024-11-08 19:24:55,560 - TradingSystem - WARNING - Insufficient data for TSM
+2024-11-08 19:24:55,580 - TradingSystem - WARNING - Insufficient data for META
+2024-11-08 19:24:55,584 - TradingSystem - ERROR - Error downloading data for TSLA: No objects to concatenate
+2024-11-08 19:24:58,703 - TradingSystem - WARNING - Insufficient data for ORCL
+2024-11-08 19:24:58,705 - TradingSystem - ERROR - Error downloading data for V: No objects to concatenate
+2024-11-08 19:24:58,708 - TradingSystem - ERROR - Error downloading data for AVGO: No objects to concatenate
+2024-11-08 19:24:58,712 - TradingSystem - ERROR - Error downloading data for JPM: No objects to concatenate
+2024-11-08 19:24:58,730 - TradingSystem - WARNING - Insufficient data for MS
+2024-11-08 19:24:58,731 - TradingSystem - ERROR - Error downloading data for WFC: No objects to concatenate
+2024-11-08 19:24:58,732 - TradingSystem - ERROR - Error downloading data for BAC: No objects to concatenate
+2024-11-08 19:24:58,733 - TradingSystem - ERROR - Error downloading data for MA: No objects to concatenate
+2024-11-08 19:25:09,654 - TradingSystem - WARNING - Insufficient data for AXP
+2024-11-08 19:25:09,664 - TradingSystem - WARNING - Insufficient data for BLK
+2024-11-08 19:25:09,669 - TradingSystem - WARNING - Insufficient data for C
+2024-11-08 19:25:09,671 - TradingSystem - ERROR - Error downloading data for GS: No objects to concatenate
+2024-11-08 19:25:21,523 - TradingSystem - WARNING - Insufficient data for MRK
+2024-11-08 19:25:21,530 - TradingSystem - ERROR - Error downloading data for PFE: No objects to concatenate
+2024-11-08 19:25:21,531 - TradingSystem - ERROR - Error downloading data for UNH: No objects to concatenate
+2024-11-08 19:25:21,532 - TradingSystem - ERROR - Error downloading data for JNJ: No objects to concatenate
+2024-11-08 19:25:31,802 - TradingSystem - WARNING - Insufficient data for BMY
+2024-11-08 19:25:31,803 - TradingSystem - ERROR - Error downloading data for DHR: No objects to concatenate
+2024-11-08 19:25:31,805 - TradingSystem - ERROR - Error downloading data for TMO: No objects to concatenate
+2024-11-08 19:25:31,808 - TradingSystem - ERROR - Error downloading data for ABT: No objects to concatenate
+2024-11-08 19:25:37,718 - TradingSystem - WARNING - Insufficient data for ABBV
+2024-11-08 19:25:37,724 - TradingSystem - WARNING - Insufficient data for LLY
+2024-11-08 19:25:37,810 - TradingSystem - WARNING - Insufficient data for PG
+2024-11-08 19:25:37,811 - TradingSystem - ERROR - Error downloading data for KO: No objects to concatenate
+2024-11-08 19:25:37,812 - TradingSystem - ERROR - Error downloading data for PEP: No objects to concatenate
+2024-11-08 19:25:37,858 - TradingSystem - ERROR - Error downloading data for COST: No objects to concatenate
+2024-11-08 19:25:43,000 - TradingSystem - WARNING - Insufficient data for SBUX
+2024-11-08 19:25:43,002 - TradingSystem - ERROR - Error downloading data for WMT: No objects to concatenate
+2024-11-08 19:25:43,003 - TradingSystem - ERROR - Error downloading data for MCD: No objects to concatenate
+2024-11-08 19:25:43,008 - TradingSystem - ERROR - Error downloading data for NKE: No objects to concatenate
+2024-11-08 19:25:46,380 - TradingSystem - WARNING - Insufficient data for HD
+2024-11-08 19:25:46,403 - TradingSystem - ERROR - Error downloading data for DIS: No objects to concatenate
+2024-11-08 19:25:46,407 - TradingSystem - ERROR - Error downloading data for CAT: No objects to concatenate
+2024-11-08 19:25:46,412 - TradingSystem - ERROR - Error downloading data for BA: No objects to concatenate
+2024-11-08 19:25:49,528 - TradingSystem - WARNING - Insufficient data for UPS
+2024-11-08 19:25:49,534 - TradingSystem - WARNING - Insufficient data for HON
+2024-11-08 19:25:49,534 - TradingSystem - ERROR - Error downloading data for GE: No objects to concatenate
+2024-11-08 19:25:49,538 - TradingSystem - ERROR - Error downloading data for MMM: No objects to concatenate
+2024-11-08 19:25:52,258 - TradingSystem - WARNING - Insufficient data for RTX
+2024-11-08 19:25:52,266 - TradingSystem - WARNING - Insufficient data for LMT
+2024-11-08 19:25:52,268 - TradingSystem - ERROR - Error downloading data for FDX: No objects to concatenate
+2024-11-08 19:25:52,288 - TradingSystem - ERROR - Error downloading data for DE: No objects to concatenate
+2024-11-08 19:25:55,236 - TradingSystem - WARNING - Insufficient data for XOM
+2024-11-08 19:25:55,238 - TradingSystem - ERROR - Error downloading data for COP: No objects to concatenate
+2024-11-08 19:25:55,240 - TradingSystem - ERROR - Error downloading data for CVX: No objects to concatenate
+2024-11-08 19:25:55,240 - TradingSystem - ERROR - Error downloading data for SLB: No objects to concatenate
+2024-11-08 19:25:55,373 - TradingSystem - WARNING - Insufficient data for VLO
+2024-11-08 19:25:55,374 - TradingSystem - ERROR - Error downloading data for PXD: No objects to concatenate
+2024-11-08 19:25:55,374 - TradingSystem - ERROR - Error downloading data for EOG: No objects to concatenate
+2024-11-08 19:25:55,376 - TradingSystem - ERROR - Error downloading data for PSX: No objects to concatenate
+2024-11-08 19:25:59,026 - TradingSystem - WARNING - Insufficient data for T
+2024-11-08 19:25:59,036 - TradingSystem - ERROR - Error downloading data for OXY: No objects to concatenate
+2024-11-08 19:25:59,038 - TradingSystem - WARNING - Insufficient data for VZ
+2024-11-08 19:25:59,041 - TradingSystem - ERROR - Error downloading data for MPC: No objects to concatenate
+2024-11-08 19:25:59,083 - TradingSystem - WARNING - Insufficient data for NFLX
+2024-11-08 19:25:59,085 - TradingSystem - ERROR - Error downloading data for TMUS: No objects to concatenate
+2024-11-08 19:25:59,086 - TradingSystem - ERROR - Error downloading data for CRM: No objects to concatenate
+2024-11-08 19:25:59,087 - TradingSystem - ERROR - Error downloading data for CMCSA: No objects to concatenate
+2024-11-08 19:26:02,054 - TradingSystem - WARNING - Insufficient data for CSCO
+2024-11-08 19:26:02,057 - TradingSystem - ERROR - Error downloading data for INTC: No objects to concatenate
+2024-11-08 19:26:02,060 - TradingSystem - ERROR - Error downloading data for QCOM: No objects to concatenate
+2024-11-08 19:26:02,062 - TradingSystem - WARNING - Insufficient data for AMD
+2024-11-08 19:26:04,847 - TradingSystem - WARNING - Insufficient data for AMT
+2024-11-08 19:26:04,853 - TradingSystem - ERROR - Error downloading data for PLD: No objects to concatenate
+2024-11-08 19:26:04,856 - TradingSystem - ERROR - Error downloading data for CCI: No objects to concatenate
+2024-11-08 19:26:04,861 - TradingSystem - ERROR - Error downloading data for SPG: No objects to concatenate
+2024-11-08 19:26:07,340 - TradingSystem - WARNING - Insufficient data for APD
+2024-11-08 19:26:07,343 - TradingSystem - ERROR - Error downloading data for SHW: No objects to concatenate
+2024-11-08 19:26:07,344 - TradingSystem - ERROR - Error downloading data for LIN: No objects to concatenate
+2024-11-08 19:26:07,345 - TradingSystem - ERROR - Error downloading data for FCX: No objects to concatenate
+2024-11-08 19:26:09,547 - TradingSystem - WARNING - Insufficient data for SPY
+2024-11-08 19:26:09,549 - TradingSystem - ERROR - Error downloading data for NEM: No objects to concatenate
+2024-11-08 19:26:09,550 - TradingSystem - ERROR - Error downloading data for DOW: No objects to concatenate
+2024-11-08 19:26:09,551 - TradingSystem - ERROR - Error downloading data for BRK-B: No objects to concatenate
+2024-11-08 19:26:11,808 - TradingSystem - WARNING - Insufficient data for PRU
+2024-11-08 19:26:11,810 - TradingSystem - ERROR - Error downloading data for IWM: No objects to concatenate
+2024-11-08 19:26:11,813 - TradingSystem - ERROR - Error downloading data for QQQ: No objects to concatenate
+2024-11-08 19:26:11,814 - TradingSystem - ERROR - Error downloading data for EFA: No objects to concatenate
+2024-11-08 19:26:15,115 - TradingSystem - WARNING - Insufficient data for TRV
+2024-11-08 19:26:15,117 - TradingSystem - ERROR - Error downloading data for MET: No objects to concatenate
+2024-11-08 19:26:15,118 - TradingSystem - ERROR - Error downloading data for AIG: No objects to concatenate
+2024-11-08 19:26:15,120 - TradingSystem - ERROR - Error downloading data for ALL: No objects to concatenate
+2024-11-08 19:26:17,449 - TradingSystem - WARNING - Insufficient data for ABNB
+2024-11-08 19:26:17,451 - TradingSystem - ERROR - Error downloading data for PYPL: No objects to concatenate
+2024-11-08 19:26:17,453 - TradingSystem - ERROR - Error downloading data for UBER: No objects to concatenate
+2024-11-08 19:26:17,456 - TradingSystem - ERROR - Error downloading data for SQ: No objects to concatenate
+2024-11-08 19:26:23,449 - TradingSystem - WARNING - Insufficient data for ZM
+2024-11-08 19:26:23,453 - TradingSystem - WARNING - Insufficient data for SNAP
+2024-11-08 19:26:23,463 - TradingSystem - WARNING - Insufficient data for PINS
+2024-11-08 19:26:23,464 - TradingSystem - WARNING - Insufficient data for SHOP
+2024-11-08 19:26:27,713 - TradingSystem - WARNING - Insufficient data for PLTR
+2024-11-08 19:26:27,714 - TradingSystem - WARNING - Insufficient data for U
+2024-11-08 19:26:27,716 - TradingSystem - INFO - Training interrupted by user

@@ -1,0 +1,103 @@
+2024-11-08 19:30:19,061 - TradingSystem - INFO - Logger initialized
+2024-11-08 19:30:19,065 - TradingSystem - INFO - Starting market training with 100 tickers
+2024-11-08 19:30:25,274 - TradingSystem - ERROR - Error training model for GOOGL: Data must be 1-dimensional, got ndarray of shape (3354, 3) instead
+2024-11-08 19:30:25,278 - TradingSystem - ERROR - Error training model for AMZN: Data must be 1-dimensional, got ndarray of shape (3354, 4) instead
+2024-11-08 19:30:25,280 - TradingSystem - ERROR - Error training model for MSFT: Data must be 1-dimensional, got ndarray of shape (3354, 4) instead
+2024-11-08 19:30:25,283 - TradingSystem - ERROR - Error training model for AAPL: Data must be 1-dimensional, got ndarray of shape (3354, 4) instead
+2024-11-08 19:30:26,408 - TradingSystem - ERROR - Error training model for NVDA: Data must be 1-dimensional, got ndarray of shape (3354, 1) instead
+2024-11-08 19:30:26,421 - TradingSystem - ERROR - Error training model for TSLA: Data must be 1-dimensional, got ndarray of shape (3354, 2) instead
+2024-11-08 19:30:26,425 - TradingSystem - ERROR - Error training model for META: Data must be 1-dimensional, got ndarray of shape (3354, 1) instead
+2024-11-08 19:30:26,430 - TradingSystem - ERROR - Error training model for TSM: Data must be 1-dimensional, got ndarray of shape (3354, 2) instead
+2024-11-08 19:30:27,252 - TradingSystem - ERROR - Error training model for V: Data must be 1-dimensional, got ndarray of shape (3354, 3) instead
+2024-11-08 19:30:27,257 - TradingSystem - ERROR - Error training model for AVGO: Data must be 1-dimensional, got ndarray of shape (3354, 3) instead
+2024-11-08 19:30:27,280 - TradingSystem - ERROR - Error training model for ORCL: Data must be 1-dimensional, got ndarray of shape (3354, 3) instead
+2024-11-08 19:30:27,325 - TradingSystem - ERROR - Error training model for JPM: Data must be 1-dimensional, got ndarray of shape (3354, 3) instead
+2024-11-08 19:30:28,110 - TradingSystem - ERROR - Error training model for MS: Data must be 1-dimensional, got ndarray of shape (3353, 1) instead
+2024-11-08 19:30:28,114 - TradingSystem - ERROR - Error training model for BAC: Data must be 1-dimensional, got ndarray of shape (3353, 1) instead
+2024-11-08 19:30:28,157 - TradingSystem - ERROR - Error training model for MA: Data must be 1-dimensional, got ndarray of shape (3353, 1) instead
+2024-11-08 19:30:28,218 - TradingSystem - ERROR - Error training model for WFC: Data must be 1-dimensional, got ndarray of shape (3353, 1) instead
+2024-11-08 19:30:28,923 - TradingSystem - ERROR - Error training model for C: Data must be 1-dimensional, got ndarray of shape (3354, 1) instead
+2024-11-08 19:30:29,074 - TradingSystem - ERROR - Error training model for AXP: Data must be 1-dimensional, got ndarray of shape (3354, 1) instead
+2024-11-08 19:30:29,114 - TradingSystem - ERROR - Error training model for GS: Data must be 1-dimensional, got ndarray of shape (3354, 1) instead
+2024-11-08 19:30:29,203 - TradingSystem - ERROR - Error training model for BLK: Data must be 1-dimensional, got ndarray of shape (3354, 1) instead
+2024-11-08 19:30:29,243 - TradingSystem - ERROR - Error training model for JNJ: Data must be 1-dimensional, got ndarray of shape (3354, 1) instead
+2024-11-08 19:30:29,463 - TradingSystem - ERROR - Error training model for PFE: Data must be 1-dimensional, got ndarray of shape (3354, 1) instead
+2024-11-08 19:30:29,486 - TradingSystem - ERROR - Error training model for ABT: Data must be 1-dimensional, got ndarray of shape (3354, 1) instead
+2024-11-08 19:30:29,549 - TradingSystem - ERROR - Error training model for MRK: Data must be 1-dimensional, got ndarray of shape (3354, 1) instead
+2024-11-08 19:30:29,554 - TradingSystem - ERROR - Error training model for UNH: Data must be 1-dimensional, got ndarray of shape (3354, 1) instead
+2024-11-08 19:30:29,865 - TradingSystem - ERROR - Error training model for TMO: Data must be 1-dimensional, got ndarray of shape (3354, 2) instead
+2024-11-08 19:30:29,865 - TradingSystem - ERROR - Error training model for BMY: Data must be 1-dimensional, got ndarray of shape (3354, 2) instead
+2024-11-08 19:30:29,867 - TradingSystem - ERROR - Error training model for LLY: Data must be 1-dimensional, got ndarray of shape (3354, 2) instead
+2024-11-08 19:30:29,881 - TradingSystem - ERROR - Error training model for DHR: Data must be 1-dimensional, got ndarray of shape (3354, 2) instead
+2024-11-08 19:30:30,208 - TradingSystem - ERROR - Error training model for PG: Data must be 1-dimensional, got ndarray of shape (3353, 1) instead
+2024-11-08 19:30:30,217 - TradingSystem - ERROR - Error training model for ABBV: Data must be 1-dimensional, got ndarray of shape (3353, 1) instead
+2024-11-08 19:30:30,218 - TradingSystem - ERROR - Error training model for KO: Data must be 1-dimensional, got ndarray of shape (3353, 1) instead
+2024-11-08 19:30:30,225 - TradingSystem - ERROR - Error training model for PEP: Data must be 1-dimensional, got ndarray of shape (3353, 1) instead
+2024-11-08 19:30:30,832 - TradingSystem - ERROR - Error training model for NKE: Data must be 1-dimensional, got ndarray of shape (3354, 1) instead
+2024-11-08 19:30:30,841 - TradingSystem - ERROR - Error training model for WMT: Data must be 1-dimensional, got ndarray of shape (3354, 1) instead
+2024-11-08 19:30:30,842 - TradingSystem - ERROR - Error training model for MCD: Data must be 1-dimensional, got ndarray of shape (3354, 1) instead
+2024-11-08 19:30:30,875 - TradingSystem - ERROR - Error training model for COST: Data must be 1-dimensional, got ndarray of shape (3354, 1) instead
+2024-11-08 19:30:31,278 - TradingSystem - ERROR - Error training model for DIS: Data must be 1-dimensional, got ndarray of shape (3354, 2) instead
+2024-11-08 19:30:31,280 - TradingSystem - ERROR - Error training model for CAT: Data must be 1-dimensional, got ndarray of shape (3354, 2) instead
+2024-11-08 19:30:31,283 - TradingSystem - ERROR - Error training model for HD: Data must be 1-dimensional, got ndarray of shape (3354, 1) instead
+2024-11-08 19:30:31,323 - TradingSystem - ERROR - Error training model for SBUX: Data must be 1-dimensional, got ndarray of shape (3354, 2) instead
+2024-11-08 19:30:31,827 - TradingSystem - ERROR - Error training model for HON: Data must be 1-dimensional, got ndarray of shape (3354, 1) instead
+2024-11-08 19:30:31,853 - TradingSystem - ERROR - Error training model for MMM: Data must be 1-dimensional, got ndarray of shape (3354, 1) instead
+2024-11-08 19:30:31,879 - TradingSystem - ERROR - Error training model for GE: Data must be 1-dimensional, got ndarray of shape (3354, 1) instead
+2024-11-08 19:30:31,892 - TradingSystem - ERROR - Error training model for BA: Data must be 1-dimensional, got ndarray of shape (3354, 1) instead
+2024-11-08 19:30:32,521 - TradingSystem - ERROR - Error training model for RTX: Data must be 1-dimensional, got ndarray of shape (3354, 2) instead
+2024-11-08 19:30:32,523 - TradingSystem - ERROR - Error training model for LMT: Data must be 1-dimensional, got ndarray of shape (3354, 2) instead
+2024-11-08 19:30:32,551 - TradingSystem - ERROR - Error training model for DE: Data must be 1-dimensional, got ndarray of shape (3354, 2) instead
+2024-11-08 19:30:32,557 - TradingSystem - ERROR - Error training model for UPS: Data must be 1-dimensional, got ndarray of shape (3354, 2) instead
+2024-11-08 19:30:32,792 - TradingSystem - ERROR - Error training model for COP: Data must be 1-dimensional, got ndarray of shape (3354, 1) instead
+2024-11-08 19:30:32,795 - TradingSystem - ERROR - Error training model for CVX: Data must be 1-dimensional, got ndarray of shape (3354, 1) instead
+2024-11-08 19:30:32,799 - TradingSystem - ERROR - Error training model for FDX: Data must be 1-dimensional, got ndarray of shape (3354, 1) instead
+2024-11-08 19:30:32,819 - TradingSystem - ERROR - Error training model for XOM: Data must be 1-dimensional, got ndarray of shape (3354, 1) instead
+2024-11-08 19:30:33,397 - TradingSystem - ERROR - Error training model for EOG: Data must be 1-dimensional, got ndarray of shape (3354, 2) instead
+2024-11-08 19:30:33,409 - TradingSystem - ERROR - Error training model for SLB: Data must be 1-dimensional, got ndarray of shape (3354, 2) instead
+2024-11-08 19:30:33,641 - TradingSystem - ERROR - Error training model for PXD: Data must be 1-dimensional, got ndarray of shape (3354, 2) instead
+2024-11-08 19:30:33,647 - TradingSystem - ERROR - Error training model for PSX: Data must be 1-dimensional, got ndarray of shape (3354, 2) instead
+2024-11-08 19:30:33,733 - TradingSystem - ERROR - Error training model for MPC: Data must be 1-dimensional, got ndarray of shape (3354, 1) instead
+2024-11-08 19:30:33,747 - TradingSystem - ERROR - Error training model for VLO: Data must be 1-dimensional, got ndarray of shape (3354, 1) instead
+2024-11-08 19:30:34,750 - TradingSystem - ERROR - Error training model for TMUS: Data must be 1-dimensional, got ndarray of shape (3354, 1) instead
+2024-11-08 19:30:34,753 - TradingSystem - ERROR - Error training model for OXY: Data must be 1-dimensional, got ndarray of shape (3354, 1) instead
+2024-11-08 19:30:34,764 - TradingSystem - ERROR - Error training model for VZ: Data must be 1-dimensional, got ndarray of shape (3354, 1) instead
+2024-11-08 19:30:34,788 - TradingSystem - ERROR - Error training model for T: Data must be 1-dimensional, got ndarray of shape (3354, 1) instead
+2024-11-08 19:30:38,483 - TradingSystem - WARNING - Insufficient data for NFLX
+2024-11-08 19:30:38,485 - TradingSystem - ERROR - Error downloading data for CMCSA: No objects to concatenate
+2024-11-08 19:30:38,486 - TradingSystem - ERROR - Error downloading data for CRM: No objects to concatenate
+2024-11-08 19:30:38,486 - TradingSystem - ERROR - Error downloading data for CSCO: No objects to concatenate
+2024-11-08 19:30:39,007 - TradingSystem - ERROR - Error training model for AMT: Data must be 1-dimensional, got ndarray of shape (3354, 1) instead
+2024-11-08 19:30:39,016 - TradingSystem - ERROR - Error training model for AMD: Data must be 1-dimensional, got ndarray of shape (3354, 1) instead
+2024-11-08 19:30:39,020 - TradingSystem - ERROR - Error training model for QCOM: Data must be 1-dimensional, got ndarray of shape (3354, 1) instead
+2024-11-08 19:30:39,036 - TradingSystem - ERROR - Error training model for INTC: Data must be 1-dimensional, got ndarray of shape (3354, 1) instead
+2024-11-08 19:30:39,058 - TradingSystem - ERROR - Error training model for PLD: Data must be 1-dimensional, got ndarray of shape (3354, 1) instead
+2024-11-08 19:30:39,392 - TradingSystem - ERROR - Error training model for APD: Data must be 1-dimensional, got ndarray of shape (3354, 1) instead
+2024-11-08 19:30:39,439 - TradingSystem - ERROR - Error training model for SPG: Data must be 1-dimensional, got ndarray of shape (3354, 1) instead
+2024-11-08 19:30:39,442 - TradingSystem - ERROR - Error training model for LIN: Data must be 1-dimensional, got ndarray of shape (3354, 1) instead
+2024-11-08 19:30:39,494 - TradingSystem - ERROR - Error training model for CCI: Data must be 1-dimensional, got ndarray of shape (3354, 1) instead
+2024-11-08 19:30:39,779 - TradingSystem - ERROR - Error training model for NEM: Data must be 1-dimensional, got ndarray of shape (3354, 1) instead
+2024-11-08 19:30:39,783 - TradingSystem - ERROR - Error training model for SHW: Data must be 1-dimensional, got ndarray of shape (3354, 1) instead
+2024-11-08 19:30:39,800 - TradingSystem - ERROR - Error training model for FCX: Data must be 1-dimensional, got ndarray of shape (3354, 2) instead
+2024-11-08 19:30:39,801 - TradingSystem - ERROR - Error training model for DOW: Data must be 1-dimensional, got ndarray of shape (3354, 2) instead
+2024-11-08 19:30:40,487 - TradingSystem - ERROR - Error training model for IWM: Data must be 1-dimensional, got ndarray of shape (3354, 1) instead
+2024-11-08 19:30:40,507 - TradingSystem - ERROR - Error training model for QQQ: Data must be 1-dimensional, got ndarray of shape (3354, 1) instead
+2024-11-08 19:30:40,509 - TradingSystem - ERROR - Error training model for SPY: Data must be 1-dimensional, got ndarray of shape (3354, 1) instead
+2024-11-08 19:30:40,510 - TradingSystem - ERROR - Error training model for BRK-B: Data must be 1-dimensional, got ndarray of shape (3354, 1) instead
+2024-11-08 19:30:40,897 - TradingSystem - ERROR - Error training model for MET: Data must be 1-dimensional, got ndarray of shape (3354, 1) instead
+2024-11-08 19:30:40,913 - TradingSystem - ERROR - Error training model for EFA: Data must be 1-dimensional, got ndarray of shape (3354, 2) instead
+2024-11-08 19:30:40,937 - TradingSystem - ERROR - Error training model for PRU: Data must be 1-dimensional, got ndarray of shape (3354, 3) instead
+2024-11-08 19:30:40,942 - TradingSystem - ERROR - Error training model for AIG: Data must be 1-dimensional, got ndarray of shape (3354, 3) instead
+2024-11-08 19:30:41,565 - TradingSystem - ERROR - Error training model for SQ: Data must be 1-dimensional, got ndarray of shape (3348, 1) instead
+2024-11-08 19:30:41,573 - TradingSystem - ERROR - Error training model for ALL: Data must be 1-dimensional, got ndarray of shape (3348, 1) instead
+2024-11-08 19:30:41,577 - TradingSystem - ERROR - Error training model for TRV: Data must be 1-dimensional, got ndarray of shape (3348, 1) instead
+2024-11-08 19:30:41,667 - TradingSystem - ERROR - Error training model for PYPL: Data must be 1-dimensional, got ndarray of shape (3348, 1) instead
+2024-11-08 19:30:41,668 - TradingSystem - ERROR - Error downloading data for ABNB: No objects to concatenate
+2024-11-08 19:30:41,670 - TradingSystem - ERROR - Error downloading data for ZM: No objects to concatenate
+2024-11-08 19:30:41,672 - TradingSystem - ERROR - Error downloading data for UBER: No objects to concatenate
+2024-11-08 19:30:42,130 - TradingSystem - ERROR - Error training model for PINS: Data must be 1-dimensional, got ndarray of shape (3354, 1) instead
+2024-11-08 19:30:42,131 - TradingSystem - ERROR - Error training model for U: Data must be 1-dimensional, got ndarray of shape (3354, 1) instead
+2024-11-08 19:30:42,188 - TradingSystem - ERROR - Error training model for SNAP: Data must be 1-dimensional, got ndarray of shape (3354, 1) instead
+2024-11-08 19:30:42,199 - TradingSystem - ERROR - Error training model for SHOP: Data must be 1-dimensional, got ndarray of shape (3354, 1) instead
+2024-11-08 19:30:42,375 - TradingSystem - ERROR - Error training model for PLTR: Data must be 1-dimensional, got ndarray of shape (3354, 2) instead
+2024-11-08 19:30:42,437 - TradingSystem - INFO - Market training completed successfully!

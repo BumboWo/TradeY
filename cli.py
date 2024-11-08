@@ -7,10 +7,10 @@ from datetime import datetime
 project_root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 sys.path.append(project_root)
 
-from asda.src.core.market_trainer import MarketTrainer
-from asda.src.core.trader import Trader
-from asda.src.utils.logger import Logger
-from asda.src.config.config import Config
+from src.core.market_trainer import MarketTrainer
+from src.core.trader import Trader
+from src.utils.logger import Logger
+from src.config.config import Config
 
 @click.group()
 def cli():
