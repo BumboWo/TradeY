@@ -1,0 +1,14 @@
+{
+    "batch_size": 32,
+    "epochs": 100,
+    "validation_split": 0.2,
+    "learning_rate": 0.001,
+    "early_stopping_patience": 10,
+    "reduce_lr_patience": 5,
+    "min_lr": 0.0001,
+    "population_size": 20,
+    "mutation_rate": 0.1,
+    "mutation_scale": 0.1,
+    "generations": 50,
+    "lookback_period": 60
+}
