@@ -1,0 +1,4 @@
+2024-11-12 14:25:54,998 - TradingSystem - INFO - Logger initialized
+2024-11-12 14:25:55,003 - TradingSystem - INFO - Starting market training with 1 tickers
+2024-11-12 14:26:01,350 - TradingSystem - ERROR - Error training model for AAPL: "['SMA_20' 'SMA_50' 'EMA_20' 'EMA_50' 'MACD' 'RSI' 'Stoch' 'BB_upper'\n 'BB_middle' 'BB_lower' 'ATR' 'OBV'] not in index"
+2024-11-12 14:26:01,402 - TradingSystem - INFO - Market training completed successfully!

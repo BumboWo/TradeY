@@ -211,11 +211,8 @@ class MarketTrainer:
     def train_ticker_model(self, ticker: str, data: pd.DataFrame) -> Optional[Dict]:
         """Train model for a specific ticker."""
         try:
-            processed_data = self.data_processor.add_technical_indicators(data)
-            processed_data = self.data_processor.add_time_features(processed_data)
-            
             X, y = self.data_processor.prepare_data(
-                processed_data,
+                data,
                 lookback=self.config.training_config.get('sequence_length', 60)
             )
             
@@ -225,7 +222,7 @@ class MarketTrainer:
             
             self.logger.info(f"Training data shapes - X: {X.shape}, y: {y.shape}")
             self.logger.info(f"Number of features: {X.shape[2]}")
-            
+
             population = ModelPopulation(
                 input_shape=(X.shape[1], X.shape[2]),
                 population_size=self.config.training_config['population_size'],
@@ -247,7 +244,7 @@ class MarketTrainer:
                     f"Mean Fitness: {stats['mean_fitness']:.4f}"
                 )
                 best_generation = generation
-            
+
             best_model = population.get_best_model()
             if best_model is None:
                 self.logger.error(f"No best model found for {ticker}")

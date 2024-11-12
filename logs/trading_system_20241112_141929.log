@@ -1,0 +1,4 @@
+2024-11-12 14:19:29,275 - TradingSystem - INFO - Logger initialized
+2024-11-12 14:19:29,684 - TradingSystem - INFO - Starting market training with 1 tickers
+2024-11-12 14:19:38,769 - TradingSystem - ERROR - Error training model for AAPL: Data must be 1-dimensional, got ndarray of shape (3219, 1) instead
+2024-11-12 14:19:38,835 - TradingSystem - INFO - Market training completed successfully!

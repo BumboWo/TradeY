@@ -1,0 +1,121 @@
+2024-11-09 10:26:12,118 - TradingSystem - INFO - Logger initialized
+2024-11-09 10:26:12,169 - TradingSystem - INFO - Starting market training with 2 tickers
+2024-11-09 10:26:15,074 - TradingSystem - ERROR - Error training model for AAPL: Data must be 1-dimensional, got ndarray of shape (3421, 1) instead
+2024-11-09 10:30:42,811 - TradingSystem - ERROR - Error downloading data for 
+            'MSFT',  # Microsoft
+            'GOOGL', # Alphabet Class A
+            'AMZN',  # Amazon
+            'NVDA',  # NVIDIA
+            'META',  # Meta Platforms
+            'TSLA',  # Tesla
+            'TSM',   # Taiwan Semiconductor
+            'AVGO',  # Broadcom
+            'ORCL',  # Oracle
+            
+            # Finance
+            'JPM',   # JPMorgan Chase
+            'V',     # Visa
+            'MA',    # Mastercard
+            'BAC',   # Bank of America
+            'WFC',   # Wells Fargo
+            'MS',    # Morgan Stanley
+            'GS',    # Goldman Sachs
+            'BLK',   # BlackRock
+            'C',     # Citigroup
+            'AXP',   # American Express
+            
+            # Healthcare
+            'JNJ',   # Johnson & Johnson
+            'UNH',   # UnitedHealth
+            'PFE',   # Pfizer
+            'MRK',   # Merck
+            'ABT',   # Abbott Laboratories
+            'TMO',   # Thermo Fisher Scientific
+            'DHR',   # Danaher
+            'BMY',   # Bristol-Myers Squibb
+            'LLY',   # Eli Lilly
+            'ABBV',  # AbbVie
+            
+            # Consumer
+            'PG',    # Procter & Gamble
+            'KO',    # Coca-Cola
+            'PEP',   # PepsiCo
+            'COST',  # Costco
+            'WMT',   # Walmart
+            'NKE',   # Nike
+            'MCD',   # McDonald's
+            'SBUX',  # Starbucks
+            'DIS',   # Disney
+            'HD',    # Home Depot
+            
+            # Industrial
+            'CAT',   # Caterpillar
+            'BA',    # Boeing
+            'HON',   # Honeywell
+            'GE',    # General Electric
+            'MMM',   # 3M
+            'UPS',   # United Parcel Service
+            'RTX',   # Raytheon Technologies
+            'LMT',   # Lockheed Martin
+            'DE',    # Deere & Company
+            'FDX',   # FedEx
+            
+            # Energy
+            'XOM',   # ExxonMobil
+            'CVX',   # Chevron
+            'COP',   # ConocoPhillips
+            'SLB',   # Schlumberger
+            'EOG',   # EOG Resources
+            'PSX',   # Phillips 66
+            'VLO',   # Valero Energy
+            'MPC',   # Marathon Petroleum
+            'OXY',   # Occidental Petroleum
+            
+            # Telecommunications
+            'T',     # AT&T
+            'VZ',    # Verizon
+            'TMUS',  # T-Mobile
+            'CMCSA', # Comcast
+            'NFLX',  # Netflix
+            'CRM',   # Salesforce
+            'CSCO',  # Cisco
+            'INTC',  # Intel
+            'AMD',   # Advanced Micro Devices
+            'QCOM',  # Qualcomm
+            
+            # Real Estate & Materials
+            'AMT',   # American Tower
+            'PLD',   # Prologis
+            'CCI',   # Crown Castle
+            'SPG',   # Simon Property Group
+            'LIN',   # Linde
+            'APD',   # Air Products & Chemicals
+            'SHW',   # Sherwin-Williams
+            'FCX',   # Freeport-McMoRan
+            'NEM',   # Newmont
+            'DOW',   # Dow Inc.
+            
+            # Financial Services & Insurance
+            'BRK-B', # Berkshire Hathaway
+            'SPY',   # SPDR S&P 500 ETF
+            'QQQ',   # Invesco QQQ Trust
+            'IWM',   # iShares Russell 2000 ETF
+            'EFA',   # iShares MSCI EAFE ETF
+            'PRU',   # Prudential
+            'AIG',   # American International Group
+            'ALL',   # Allstate
+            'TRV',   # Travelers Companies
+            
+            # Others
+            'PYPL',  # PayPal
+            'SQ',    # Block (Square)
+            'UBER',  # Uber
+            'ABNB',  # Airbnb
+            'ZM',    # Zoom
+            'SHOP',  # Shopify
+            'SNAP',  # Snap
+            'PINS',  # Pinterest
+            'U',     # Unity Software
+            'PLTR'   # Palantir
+            : [Errno 22] Invalid argument: "market_training\\data\\\n            'MSFT',  # Microsoft\n            'GOOGL', # Alphabet Class A\n            'AMZN',  # Amazon\n            'NVDA',  # NVIDIA\n            'META',  # Meta Platforms\n            'TSLA',  # Tesla\n            'TSM',   # Taiwan Semiconductor\n            'AVGO',  # Broadcom\n            'ORCL',  # Oracle\n            \n            # Finance\n            'JPM',   # JPMorgan Chase\n            'V',     # Visa\n            'MA',    # Mastercard\n            'BAC',   # Bank of America\n            'WFC',   # Wells Fargo\n            'MS',    # Morgan Stanley\n            'GS',    # Goldman Sachs\n            'BLK',   # BlackRock\n            'C',     # Citigroup\n            'AXP',   # American Express\n            \n            # Healthcare\n            'JNJ',   # Johnson & Johnson\n            'UNH',   # UnitedHealth\n            'PFE',   # Pfizer\n            'MRK',   # Merck\n            'ABT',   # Abbott Laboratories\n            'TMO',   # Thermo Fisher Scientific\n            'DHR',   # Danaher\n            'BMY',   # Bristol-Myers Squibb\n            'LLY',   # Eli Lilly\n            'ABBV',  # AbbVie\n            \n            # Consumer\n            'PG',    # Procter & Gamble\n            'KO',    # Coca-Cola\n            'PEP',   # PepsiCo\n            'COST',  # Costco\n            'WMT',   # Walmart\n            'NKE',   # Nike\n            'MCD',   # McDonald's\n            'SBUX',  # Starbucks\n            'DIS',   # Disney\n            'HD',    # Home Depot\n            \n            # Industrial\n            'CAT',   # Caterpillar\n            'BA',    # Boeing\n            'HON',   # Honeywell\n            'GE',    # General Electric\n            'MMM',   # 3M\n            'UPS',   # United Parcel Service\n            'RTX',   # Raytheon Technologies\n            'LMT',   # Lockheed Martin\n            'DE',    # Deere & Company\n            'FDX',   # FedEx\n            \n            # Energy\n            'XOM',   # ExxonMobil\n            'CVX',   # Chevron\n            'COP',   # ConocoPhillips\n            'SLB',   # Schlumberger\n            'EOG',   # EOG Resources\n            'PSX',   # Phillips 66\n            'VLO',   # Valero Energy\n            'MPC',   # Marathon Petroleum\n            'OXY',   # Occidental Petroleum\n            \n            # Telecommunications\n            'T',     # AT&T\n            'VZ',    # Verizon\n            'TMUS',  # T-Mobile\n            'CMCSA', # Comcast\n            'NFLX',  # Netflix\n            'CRM',   # Salesforce\n            'CSCO',  # Cisco\n            'INTC',  # Intel\n            'AMD',   # Advanced Micro Devices\n            'QCOM',  # Qualcomm\n            \n            # Real Estate & Materials\n            'AMT',   # American Tower\n            'PLD',   # Prologis\n            'CCI',   # Crown Castle\n            'SPG',   # Simon Property Group\n            'LIN',   # Linde\n            'APD',   # Air Products & Chemicals\n            'SHW',   # Sherwin-Williams\n            'FCX',   # Freeport-McMoRan\n            'NEM',   # Newmont\n            'DOW',   # Dow Inc.\n            \n            # Financial Services & Insurance\n            'BRK-B', # Berkshire Hathaway\n            'SPY',   # SPDR S&P 500 ETF\n            'QQQ',   # Invesco QQQ Trust\n            'IWM',   # iShares Russell 2000 ETF\n            'EFA',   # iShares MSCI EAFE ETF\n            'PRU',   # Prudential\n            'AIG',   # American International Group\n            'ALL',   # Allstate\n            'TRV',   # Travelers Companies\n            \n            # Others\n            'PYPL',  # PayPal\n            'SQ',    # Block (Square)\n            'UBER',  # Uber\n            'ABNB',  # Airbnb\n            'ZM',    # Zoom\n            'SHOP',  # Shopify\n            'SNAP',  # Snap\n            'PINS',  # Pinterest\n            'U',     # Unity Software\n            'PLTR'   # Palantir\n            _data.parquet"
+2024-11-09 10:30:42,849 - TradingSystem - INFO - Market training completed successfully!

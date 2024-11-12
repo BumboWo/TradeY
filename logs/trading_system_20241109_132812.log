@@ -1,0 +1,72 @@
+2024-11-09 13:28:12,946 - TradingSystem - INFO - Logger initialized
+2024-11-09 13:28:13,261 - TradingSystem - INFO - Starting market training with 98 tickers
+2024-11-09 13:28:28,717 - TradingSystem - ERROR - Error training model for AAPL: local variable 'df' referenced before assignment
+2024-11-09 13:28:28,720 - TradingSystem - ERROR - Error training model for AMZN: local variable 'df' referenced before assignment
+2024-11-09 13:28:28,721 - TradingSystem - ERROR - Error training model for GOOGL: local variable 'df' referenced before assignment
+2024-11-09 13:28:28,726 - TradingSystem - ERROR - Error training model for MSFT: local variable 'df' referenced before assignment
+2024-11-09 13:28:33,356 - TradingSystem - ERROR - Error training model for NVDA: local variable 'df' referenced before assignment
+2024-11-09 13:28:33,488 - TradingSystem - ERROR - Error training model for TSLA: local variable 'df' referenced before assignment
+2024-11-09 13:28:33,557 - TradingSystem - ERROR - Error training model for TSM: local variable 'df' referenced before assignment
+2024-11-09 13:28:33,592 - TradingSystem - ERROR - Error training model for META: local variable 'df' referenced before assignment
+2024-11-09 13:28:37,888 - TradingSystem - ERROR - Error training model for ORCL: local variable 'df' referenced before assignment
+2024-11-09 13:28:39,067 - TradingSystem - ERROR - Error training model for JPM: local variable 'df' referenced before assignment
+2024-11-09 13:28:39,916 - TradingSystem - ERROR - Error training model for V: local variable 'df' referenced before assignment
+2024-11-09 13:28:40,326 - TradingSystem - ERROR - Error training model for AVGO: local variable 'df' referenced before assignment
+2024-11-09 13:28:47,288 - TradingSystem - ERROR - Error training model for MS: local variable 'df' referenced before assignment
+2024-11-09 13:28:47,864 - TradingSystem - ERROR - Error training model for MA: local variable 'df' referenced before assignment
+2024-11-09 13:28:47,897 - TradingSystem - ERROR - Error training model for WFC: local variable 'df' referenced before assignment
+2024-11-09 13:28:47,940 - TradingSystem - ERROR - Error training model for BAC: local variable 'df' referenced before assignment
+2024-11-09 13:28:55,292 - TradingSystem - ERROR - Error training model for GS: local variable 'df' referenced before assignment
+2024-11-09 13:28:58,312 - TradingSystem - ERROR - Error training model for AXP: local variable 'df' referenced before assignment
+2024-11-09 13:28:59,358 - TradingSystem - ERROR - Error training model for BLK: local variable 'df' referenced before assignment
+2024-11-09 13:29:00,417 - TradingSystem - ERROR - Error training model for C: local variable 'df' referenced before assignment
+2024-11-09 13:29:08,886 - TradingSystem - ERROR - Error training model for MRK: local variable 'df' referenced before assignment
+2024-11-09 13:29:11,763 - TradingSystem - ERROR - Error training model for JNJ: local variable 'df' referenced before assignment
+2024-11-09 13:29:11,788 - TradingSystem - ERROR - Error training model for PFE: local variable 'df' referenced before assignment
+2024-11-09 13:29:12,384 - TradingSystem - ERROR - Error training model for UNH: local variable 'df' referenced before assignment
+2024-11-09 13:29:16,634 - TradingSystem - ERROR - Error training model for ABT: local variable 'df' referenced before assignment
+2024-11-09 13:29:21,911 - TradingSystem - ERROR - Error training model for BMY: local variable 'df' referenced before assignment
+2024-11-09 13:29:22,247 - TradingSystem - ERROR - Error training model for TMO: local variable 'df' referenced before assignment
+2024-11-09 13:29:22,250 - TradingSystem - ERROR - Error training model for DHR: local variable 'df' referenced before assignment
+2024-11-09 13:29:22,503 - TradingSystem - ERROR - Error training model for LLY: local variable 'df' referenced before assignment
+2024-11-09 13:29:28,045 - TradingSystem - ERROR - Error training model for ABBV: local variable 'df' referenced before assignment
+2024-11-09 13:29:30,645 - TradingSystem - ERROR - Error training model for KO: local variable 'df' referenced before assignment
+2024-11-09 13:29:33,324 - TradingSystem - ERROR - Error training model for PG: local variable 'df' referenced before assignment
+2024-11-09 13:29:33,382 - TradingSystem - ERROR - Error training model for PEP: local variable 'df' referenced before assignment
+2024-11-09 13:29:33,939 - TradingSystem - ERROR - Error downloading data for COST: No objects to concatenate
+2024-11-09 13:29:40,246 - TradingSystem - ERROR - Error training model for MCD: local variable 'df' referenced before assignment
+2024-11-09 13:29:40,835 - TradingSystem - ERROR - Error training model for WMT: local variable 'df' referenced before assignment
+2024-11-09 13:29:40,862 - TradingSystem - ERROR - Error training model for SBUX: local variable 'df' referenced before assignment
+2024-11-09 13:29:41,152 - TradingSystem - ERROR - Error training model for NKE: local variable 'df' referenced before assignment
+2024-11-09 13:29:42,184 - TradingSystem - ERROR - Error downloading data for DIS: No objects to concatenate
+2024-11-09 13:29:53,932 - TradingSystem - ERROR - Error training model for HD: local variable 'df' referenced before assignment
+2024-11-09 13:29:54,095 - TradingSystem - ERROR - Error training model for HON: local variable 'df' referenced before assignment
+2024-11-09 13:29:54,283 - TradingSystem - ERROR - Error training model for CAT: local variable 'df' referenced before assignment
+2024-11-09 13:29:55,912 - TradingSystem - ERROR - Error training model for BA: local variable 'df' referenced before assignment
+2024-11-09 13:29:55,925 - TradingSystem - ERROR - Error downloading data for UPS: No objects to concatenate
+2024-11-09 13:29:56,309 - TradingSystem - ERROR - Error downloading data for GE: No objects to concatenate
+2024-11-09 13:29:56,340 - TradingSystem - ERROR - Error downloading data for MMM: No objects to concatenate
+2024-11-09 13:30:09,840 - TradingSystem - ERROR - Error training model for FDX: local variable 'df' referenced before assignment
+2024-11-09 13:30:12,213 - TradingSystem - ERROR - Error training model for LMT: local variable 'df' referenced before assignment
+2024-11-09 13:30:12,919 - TradingSystem - ERROR - Error training model for RTX: local variable 'df' referenced before assignment
+2024-11-09 13:30:13,743 - TradingSystem - ERROR - Error training model for DE: local variable 'df' referenced before assignment
+2024-11-09 13:30:14,619 - TradingSystem - ERROR - Error training model for XOM: local variable 'df' referenced before assignment
+2024-11-09 13:30:15,219 - TradingSystem - ERROR - Error downloading data for CVX: No objects to concatenate
+2024-11-09 13:30:17,653 - TradingSystem - ERROR - Error training model for COP: local variable 'df' referenced before assignment
+2024-11-09 13:30:18,018 - TradingSystem - ERROR - Error downloading data for EOG: No objects to concatenate
+2024-11-09 13:30:19,652 - TradingSystem - ERROR - Error training model for SLB: local variable 'df' referenced before assignment
+2024-11-09 13:30:20,401 - TradingSystem - ERROR - Error training model for PSX: local variable 'df' referenced before assignment
+2024-11-09 13:30:21,160 - TradingSystem - ERROR - Error downloading data for MPC: No objects to concatenate
+2024-11-09 13:30:29,587 - TradingSystem - ERROR - Error training model for VLO: local variable 'df' referenced before assignment
+2024-11-09 13:30:32,141 - TradingSystem - ERROR - Error training model for T: local variable 'df' referenced before assignment
+2024-11-09 13:30:35,152 - TradingSystem - ERROR - Error training model for VZ: local variable 'df' referenced before assignment
+2024-11-09 13:30:36,959 - TradingSystem - ERROR - Error training model for OXY: local variable 'df' referenced before assignment
+2024-11-09 13:30:37,405 - TradingSystem - ERROR - Error training model for CMCSA: local variable 'df' referenced before assignment
+2024-11-09 13:30:38,055 - TradingSystem - ERROR - Error training model for TMUS: local variable 'df' referenced before assignment
+2024-11-09 13:30:39,370 - TradingSystem - ERROR - Error training model for NFLX: local variable 'df' referenced before assignment
+2024-11-09 13:30:47,562 - TradingSystem - ERROR - Error training model for CRM: local variable 'df' referenced before assignment
+2024-11-09 13:30:52,772 - TradingSystem - ERROR - Error training model for CSCO: local variable 'df' referenced before assignment
+2024-11-09 13:30:54,819 - TradingSystem - ERROR - Error training model for AMD: local variable 'df' referenced before assignment
+2024-11-09 13:30:55,625 - TradingSystem - ERROR - Error training model for INTC: local variable 'df' referenced before assignment
+2024-11-09 13:30:55,758 - TradingSystem - ERROR - Error training model for QCOM: local variable 'df' referenced before assignment
+2024-11-09 13:30:59,393 - TradingSystem - ERROR - Error training model for AMT: local variable 'df' referenced before assignment
